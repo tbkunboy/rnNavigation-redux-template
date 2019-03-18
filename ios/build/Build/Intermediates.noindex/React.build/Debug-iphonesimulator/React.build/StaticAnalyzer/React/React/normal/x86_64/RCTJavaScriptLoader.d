@@ -1,0 +1,24 @@
+dependencies: \
+  /Users/ngonhat/Desktop/googlesign/react-native-navigation-with-redux-template/node_modules/react-native/React/Base/RCTJavaScriptLoader.mm \
+  /Users/ngonhat/Desktop/googlesign/react-native-navigation-with-redux-template/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/ngonhat/Desktop/googlesign/react-native-navigation-with-redux-template/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/ngonhat/Desktop/googlesign/react-native-navigation-with-redux-template/ios/build/Build/Products/Debug-iphonesimulator/include/cxxreact/JSBundleType.h \
+  /Users/ngonhat/Desktop/googlesign/react-native-navigation-with-redux-template/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/ngonhat/Desktop/googlesign/react-native-navigation-with-redux-template/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/ngonhat/Desktop/googlesign/react-native-navigation-with-redux-template/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/ngonhat/Desktop/googlesign/react-native-navigation-with-redux-template/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/ngonhat/Desktop/googlesign/react-native-navigation-with-redux-template/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/ngonhat/Desktop/googlesign/react-native-navigation-with-redux-template/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/ngonhat/Desktop/googlesign/react-native-navigation-with-redux-template/node_modules/react-native/React/Views/RCTAnimationType.h \
+  /Users/ngonhat/Desktop/googlesign/react-native-navigation-with-redux-template/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/ngonhat/Desktop/googlesign/react-native-navigation-with-redux-template/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/ngonhat/Desktop/googlesign/react-native-navigation-with-redux-template/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/ngonhat/Desktop/googlesign/react-native-navigation-with-redux-template/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/ngonhat/Desktop/googlesign/react-native-navigation-with-redux-template/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/ngonhat/Desktop/googlesign/react-native-navigation-with-redux-template/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  /Users/ngonhat/Desktop/googlesign/react-native-navigation-with-redux-template/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/ngonhat/Desktop/googlesign/react-native-navigation-with-redux-template/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/ngonhat/Desktop/googlesign/react-native-navigation-with-redux-template/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/ngonhat/Desktop/googlesign/react-native-navigation-with-redux-template/node_modules/react-native/React/Base/RCTMultipartDataTask.h \
+  /Users/ngonhat/Desktop/googlesign/react-native-navigation-with-redux-template/node_modules/react-native/React/Base/RCTMultipartStreamReader.h \
+  /Users/ngonhat/Desktop/googlesign/react-native-navigation-with-redux-template/node_modules/react-native/React/Base/RCTPerformanceLogger.h

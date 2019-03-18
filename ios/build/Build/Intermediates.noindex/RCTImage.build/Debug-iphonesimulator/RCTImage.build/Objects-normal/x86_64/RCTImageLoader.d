@@ -1,0 +1,29 @@
+dependencies: \
+  /Users/ngonhat/Desktop/googlesign/react-native-navigation-with-redux-template/node_modules/react-native/Libraries/Image/RCTImageLoader.m \
+  /Users/ngonhat/Desktop/googlesign/react-native-navigation-with-redux-template/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Users/ngonhat/Desktop/googlesign/react-native-navigation-with-redux-template/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/ngonhat/Desktop/googlesign/react-native-navigation-with-redux-template/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/ngonhat/Desktop/googlesign/react-native-navigation-with-redux-template/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/ngonhat/Desktop/googlesign/react-native-navigation-with-redux-template/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/ngonhat/Desktop/googlesign/react-native-navigation-with-redux-template/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/ngonhat/Desktop/googlesign/react-native-navigation-with-redux-template/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/ngonhat/Desktop/googlesign/react-native-navigation-with-redux-template/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/ngonhat/Desktop/googlesign/react-native-navigation-with-redux-template/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/ngonhat/Desktop/googlesign/react-native-navigation-with-redux-template/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/ngonhat/Desktop/googlesign/react-native-navigation-with-redux-template/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/ngonhat/Desktop/googlesign/react-native-navigation-with-redux-template/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/ngonhat/Desktop/googlesign/react-native-navigation-with-redux-template/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTImageLoader.h \
+  /Users/ngonhat/Desktop/googlesign/react-native-navigation-with-redux-template/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/ngonhat/Desktop/googlesign/react-native-navigation-with-redux-template/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/ngonhat/Desktop/googlesign/react-native-navigation-with-redux-template/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/ngonhat/Desktop/googlesign/react-native-navigation-with-redux-template/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/ngonhat/Desktop/googlesign/react-native-navigation-with-redux-template/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/ngonhat/Desktop/googlesign/react-native-navigation-with-redux-template/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/ngonhat/Desktop/googlesign/react-native-navigation-with-redux-template/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTResizeMode.h \
+  /Users/ngonhat/Desktop/googlesign/react-native-navigation-with-redux-template/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTURLRequestHandler.h \
+  /Users/ngonhat/Desktop/googlesign/react-native-navigation-with-redux-template/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTURLRequestDelegate.h \
+  /Users/ngonhat/Desktop/googlesign/react-native-navigation-with-redux-template/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTNetworking.h \
+  /Users/ngonhat/Desktop/googlesign/react-native-navigation-with-redux-template/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventEmitter.h \
+  /Users/ngonhat/Desktop/googlesign/react-native-navigation-with-redux-template/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTNetworkTask.h \
+  /Users/ngonhat/Desktop/googlesign/react-native-navigation-with-redux-template/node_modules/react-native/Libraries/Image/RCTImageCache.h \
+  /Users/ngonhat/Desktop/googlesign/react-native-navigation-with-redux-template/node_modules/react-native/Libraries/Image/RCTImageUtils.h
