@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "136943183578",
+    "firebase_url": "https://flutterlearning-e5c38.firebaseio.com",
+    "project_id": "flutterlearning-e5c38",
+    "storage_bucket": "flutterlearning-e5c38.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136943183578:android:bc8b38f6d9a4fb73",
+        "android_client_info": {
+          "package_name": "com.rnnavigationredux"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "136943183578-gujpof4k0nd4sgguu5i4giamba2olse8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDi1PJJFQbdi8O99bhxcif_tn_63iH7M1g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
